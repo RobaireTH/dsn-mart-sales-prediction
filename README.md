@@ -20,7 +20,7 @@ CV RMSE is 1067.90 (5-fold, repeated 3 times).
 | v7 | midpoint price | 1068.65 |
 | v8 | mean units per store, fixed blend weights | 1068.58 |
 
-`submissions/` has the four files. The notebook reproduces v8 on my machine. There's a slight discrepancy between my machine and Kaggle's, so a Kaggle run gives a slightly different score.
+`submissions/` has the four files. The notebook outputs v8. There's a slight discrepancy between my machine and Kaggle's, so a Kaggle run gives a slightly different score.
 
 ## Running it
 
